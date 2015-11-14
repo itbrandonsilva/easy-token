@@ -1,0 +1,13 @@
+{
+  "name": "easy-token",
+  "version": "0.0.1",
+  "description": "Token based authentication made simple.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Brandon Silva",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
